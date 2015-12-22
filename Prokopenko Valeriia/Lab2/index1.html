@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link href="Libraries/bootstrap-theme.css" rel="stylesheet" />
+    <link href="Libraries/bootstrap.css" rel="stylesheet" />
+    <script src="app1.js"></script>
+
+    <style>
+        .btn-file {
+            margin: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+            .btn-file input[type=file] {
+                position: absolute;
+                top: 0;
+                right: 0;
+                min-width: 100%;
+                min-height: 100%;
+                font-size: 100px;
+                text-align: right;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                outline: none;
+                background: white;
+                cursor: inherit;
+                display: block;
+            }
+    </style>
+</head>
+
+<body>
+    <span class="btn btn-success btn-file">
+        Browse <input type="file" id="chooseFile" />
+    </span>
+    <input type="button" onclick="processText()"/>
+</body>
+</html>
