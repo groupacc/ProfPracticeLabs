@@ -1,0 +1,6 @@
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataMunging.exe.config
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataMunging.exe
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataMunging.pdb
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\obj\Debug\DataMunging.csprojResolveAssemblyReference.cache
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\obj\Debug\DataMunging.exe
+D:\Мои документы\OneDrive\ConsoleApplication1\ConsoleApplication1\obj\Debug\DataMunging.pdb

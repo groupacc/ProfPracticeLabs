@@ -1,0 +1,7 @@
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\bin\Debug\nunit.framework.dll
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\bin\Debug\nunit.framework.xml
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+D:\Мои документы\OneDrive\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
