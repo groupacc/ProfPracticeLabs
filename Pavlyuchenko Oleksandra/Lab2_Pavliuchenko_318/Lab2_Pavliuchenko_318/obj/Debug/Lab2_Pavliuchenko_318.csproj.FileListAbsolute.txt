@@ -1,0 +1,6 @@
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\bin\Debug\Lab2_Pavliuchenko_318.exe.config
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\obj\Debug\Lab2_Pavliuchenko_318.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\bin\Debug\Lab2_Pavliuchenko_318.exe
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\bin\Debug\Lab2_Pavliuchenko_318.pdb
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\obj\Debug\Lab2_Pavliuchenko_318.exe
+C:\Users\01\Desktop\Lab2_Pavliuchenko_318\Lab2_Pavliuchenko_318\obj\Debug\Lab2_Pavliuchenko_318.pdb

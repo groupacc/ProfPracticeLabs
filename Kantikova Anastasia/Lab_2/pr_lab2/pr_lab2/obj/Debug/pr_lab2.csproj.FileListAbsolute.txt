@@ -1,0 +1,6 @@
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\bin\Debug\pr_lab2.exe.config
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\bin\Debug\pr_lab2.exe
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\bin\Debug\pr_lab2.pdb
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\obj\Debug\pr_lab2.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\obj\Debug\pr_lab2.exe
+C:\Users\ProBook\Desktop\pr_lab2\pr_lab2\obj\Debug\pr_lab2.pdb

@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LabWork1\LabWork1\obj\Debug\LabWork1.csprojResolveAssemblyReference.cache
